@@ -25,4 +25,5 @@ The following policies are needed to allow communication between the node pools 
 * IPENCAP for IP ranges 192.168.128.0/17 for internal communication between node pools and control plane.
 
 This Terraform script enables you quickly set upa firewall with multiple rules to secure your LKE(Linode Kubernetes Engine) clusters.
-![image](https://user-images.githubusercontent.com/6391049/226423674-ee3a5f43-2ec1-4022-a987-29afd4a99654.png)
+![image](https://user-images.githubusercontent.com/6391049/226424184-f86b9ee0-b45d-42ca-9199-93d1c9a9147c.png)
+

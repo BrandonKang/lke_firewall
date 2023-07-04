@@ -27,3 +27,4 @@ The following policies are needed to allow communication between the node pools 
 This Terraform script enables you quickly set upa firewall with multiple rules to secure your LKE(Linode Kubernetes Engine) clusters.
 ![image](https://user-images.githubusercontent.com/6391049/226424184-f86b9ee0-b45d-42ca-9199-93d1c9a9147c.png)
 
+![Screenshot 2023-07-04 at 5 54 56 PM](https://github.com/BrandonKang/lke_firewall/assets/6391049/c3f07dcc-b3e0-4f08-9152-3a44333a27ab)

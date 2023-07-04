@@ -8,7 +8,7 @@ terraform {
 
 # Set up the Linode provider
 provider "linode" {
-  token = {YOUR_API_TOKEN}
+  token = "{YOUR_API_TOKEN}"
 }
 
 # Define the firewall policy
